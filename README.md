@@ -1,3 +1,1 @@
-# its-git-demo
-
-"Develop branch versioon"
+# its-git-demo "Develop branch versioon"
